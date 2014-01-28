@@ -1,3 +1,18 @@
+
+*************
+Collustra Setup
+*************
+
+TBD
+
+
+
+*************
+
+CSPARQL Setup
+*************
+
+
 ------------ Foursquare IsIn example ------------
 
 Example that checks who is in each room using “Foursquare” check-in actions

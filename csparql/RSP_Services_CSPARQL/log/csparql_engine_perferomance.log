@@ -1,0 +1,600 @@
+14:52:09.563 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a674b04c-5df1-4ca5-ab76-549384d19522 
+ Execution Time : 171 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 417.0 mb 
+ Memory Usage : 74.0 mb
+14:52:19.389 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a674b04c-5df1-4ca5-ab76-549384d19522 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+14:52:29.389 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a674b04c-5df1-4ca5-ab76-549384d19522 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+14:52:39.387 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a674b04c-5df1-4ca5-ab76-549384d19522 
+ Execution Time : 2 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 85.0 mb
+14:52:49.390 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a674b04c-5df1-4ca5-ab76-549384d19522 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 85.0 mb
+16:04:02.827 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 97 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 420.0 mb 
+ Memory Usage : 71.0 mb
+16:04:12.730 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 409.0 mb 
+ Memory Usage : 81.0 mb
+16:04:22.731 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 409.0 mb 
+ Memory Usage : 81.0 mb
+16:04:32.729 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 2 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+16:04:42.732 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+16:05:32.728 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+16:05:42.727 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+16:05:52.727 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 86.0 mb
+16:06:02.730 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 7 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 86.0 mb
+16:06:12.728 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 87.0 mb
+16:06:22.727 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 16bfcd41-9da8-4253-856a-9be9821b17dd 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 87.0 mb
+13:59:25.535 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 958505e4-222a-40ac-8f1f-4017f945f20f 
+ Execution Time : 391 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 418.0 mb 
+ Memory Usage : 72.0 mb
+13:59:35.147 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 958505e4-222a-40ac-8f1f-4017f945f20f 
+ Execution Time : 7 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 86.0 mb
+13:59:45.148 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 958505e4-222a-40ac-8f1f-4017f945f20f 
+ Execution Time : 6 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 86.0 mb
+13:59:55.147 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 958505e4-222a-40ac-8f1f-4017f945f20f 
+ Execution Time : 6 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 403.0 mb 
+ Memory Usage : 88.0 mb
+14:00:05.154 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 958505e4-222a-40ac-8f1f-4017f945f20f 
+ Execution Time : 6 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 403.0 mb 
+ Memory Usage : 88.0 mb
+14:00:15.138 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 958505e4-222a-40ac-8f1f-4017f945f20f 
+ Execution Time : 6 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 402.0 mb 
+ Memory Usage : 89.0 mb
+14:00:25.137 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 958505e4-222a-40ac-8f1f-4017f945f20f 
+ Execution Time : 6 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 402.0 mb 
+ Memory Usage : 89.0 mb
+15:03:29.666 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query b9ad2ad1-b244-4d26-822e-524cf5f8191d 
+ Execution Time : 163 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 420.0 mb 
+ Memory Usage : 71.0 mb
+15:05:09.839 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query b9ad2ad1-b244-4d26-822e-524cf5f8191d 
+ Execution Time : 2 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+15:05:49.503 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query b9ad2ad1-b244-4d26-822e-524cf5f8191d 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 87.0 mb
+15:06:00.721 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query b9ad2ad1-b244-4d26-822e-524cf5f8191d 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 87.0 mb
+15:06:09.503 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query b9ad2ad1-b244-4d26-822e-524cf5f8191d 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 403.0 mb 
+ Memory Usage : 88.0 mb
+15:06:19.499 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query b9ad2ad1-b244-4d26-822e-524cf5f8191d 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 403.0 mb 
+ Memory Usage : 88.0 mb
+15:06:29.498 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query b9ad2ad1-b244-4d26-822e-524cf5f8191d 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 403.0 mb 
+ Memory Usage : 88.0 mb
+15:06:39.499 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query b9ad2ad1-b244-4d26-822e-524cf5f8191d 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 401.0 mb 
+ Memory Usage : 89.0 mb
+15:15:19.722 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 97 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 420.0 mb 
+ Memory Usage : 71.0 mb
+15:15:29.625 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+15:15:39.625 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+15:15:49.626 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+15:15:59.726 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+15:18:49.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 86.0 mb
+15:18:59.622 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 86.0 mb
+15:19:09.622 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 86.0 mb
+15:19:19.624 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 6 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 87.0 mb
+15:19:29.721 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 87.0 mb
+15:19:39.622 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 404.0 mb 
+ Memory Usage : 87.0 mb
+15:20:29.620 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 2 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 400.0 mb 
+ Memory Usage : 91.0 mb
+15:20:39.622 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 400.0 mb 
+ Memory Usage : 91.0 mb
+15:20:49.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 399.0 mb 
+ Memory Usage : 92.0 mb
+15:20:59.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 399.0 mb 
+ Memory Usage : 92.0 mb
+15:21:09.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 399.0 mb 
+ Memory Usage : 92.0 mb
+15:21:19.622 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 397.0 mb 
+ Memory Usage : 93.0 mb
+15:30:29.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 392.0 mb 
+ Memory Usage : 98.0 mb
+15:30:39.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 392.0 mb 
+ Memory Usage : 98.0 mb
+15:30:49.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 392.0 mb 
+ Memory Usage : 98.0 mb
+15:30:59.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 391.0 mb 
+ Memory Usage : 100.0 mb
+15:31:09.720 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 391.0 mb 
+ Memory Usage : 100.0 mb
+15:31:19.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 389.0 mb 
+ Memory Usage : 101.0 mb
+15:31:49.620 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 2 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 388.0 mb 
+ Memory Usage : 103.0 mb
+15:31:59.620 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 2 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 388.0 mb 
+ Memory Usage : 103.0 mb
+15:32:09.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 386.0 mb 
+ Memory Usage : 104.0 mb
+15:32:19.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 386.0 mb 
+ Memory Usage : 104.0 mb
+15:32:29.622 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 385.0 mb 
+ Memory Usage : 105.0 mb
+15:32:39.622 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 385.0 mb 
+ Memory Usage : 105.0 mb
+15:33:59.720 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 385.0 mb 
+ Memory Usage : 105.0 mb
+15:34:09.620 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 2 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 384.0 mb 
+ Memory Usage : 107.0 mb
+15:34:19.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 384.0 mb 
+ Memory Usage : 107.0 mb
+15:34:29.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 382.0 mb 
+ Memory Usage : 108.0 mb
+15:34:39.620 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 2 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 382.0 mb 
+ Memory Usage : 108.0 mb
+15:34:49.621 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a6b42421-7b5a-4163-9e28-d848998b0382 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 382.0 mb 
+ Memory Usage : 108.0 mb
+10:04:10.456 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 176 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 418.0 mb 
+ Memory Usage : 73.0 mb
+10:04:20.278 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+10:04:30.279 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+10:04:40.280 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+10:04:50.280 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 86.0 mb
+10:05:30.275 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 403.0 mb 
+ Memory Usage : 88.0 mb
+10:05:40.376 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 403.0 mb 
+ Memory Usage : 88.0 mb
+10:05:50.275 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 401.0 mb 
+ Memory Usage : 89.0 mb
+10:06:00.279 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 7 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 401.0 mb 
+ Memory Usage : 89.0 mb
+10:06:10.276 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 400.0 mb 
+ Memory Usage : 91.0 mb
+10:06:20.375 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 400.0 mb 
+ Memory Usage : 91.0 mb
+10:17:40.276 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 396.0 mb 
+ Memory Usage : 95.0 mb
+10:17:50.276 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 394.0 mb 
+ Memory Usage : 96.0 mb
+10:18:00.376 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 392.0 mb 
+ Memory Usage : 99.0 mb
+10:18:10.275 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 392.0 mb 
+ Memory Usage : 99.0 mb
+10:18:20.376 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 390.0 mb 
+ Memory Usage : 100.0 mb
+10:18:30.276 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 390.0 mb 
+ Memory Usage : 100.0 mb
+10:19:20.275 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 389.0 mb 
+ Memory Usage : 101.0 mb
+10:19:30.275 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 389.0 mb 
+ Memory Usage : 101.0 mb
+10:19:40.275 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 388.0 mb 
+ Memory Usage : 103.0 mb
+10:19:50.275 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 388.0 mb 
+ Memory Usage : 103.0 mb
+10:20:00.374 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 388.0 mb 
+ Memory Usage : 103.0 mb
+10:20:10.375 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query 5223443f-017c-4952-9464-6e0ca58dc9fa 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 387.0 mb 
+ Memory Usage : 104.0 mb
+15:05:14.150 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 98 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 420.0 mb 
+ Memory Usage : 71.0 mb
+15:05:24.052 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 409.0 mb 
+ Memory Usage : 81.0 mb
+15:05:34.053 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 409.0 mb 
+ Memory Usage : 81.0 mb
+15:05:44.053 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+15:05:54.053 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+15:06:14.051 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 408.0 mb 
+ Memory Usage : 83.0 mb
+15:06:24.051 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 4 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+15:06:34.050 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+15:06:44.053 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 6 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 406.0 mb 
+ Memory Usage : 84.0 mb
+15:06:54.050 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 86.0 mb
+15:07:04.050 [com.espertech.esper.Timer-default-1] DEBUG eu.larkc.csparql.sparql.jena.JenaEngine - Information about execution of query a8846c1c-c678-4e30-b49d-233df311ad04 
+ Execution Time : 3 
+ Results Number : 1 
+ Total Memory : 491.0 mb 
+ Free Memory : 405.0 mb 
+ Memory Usage : 86.0 mb

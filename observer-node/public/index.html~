@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <title>SPARQLr</title>
+    <link href="css/reset.css" type="text/css" rel="stylesheet" />
+    <link href="css/jquery-ui-1.10.3/themes/base/jquery-ui.css" type="text/css"
+          rel="stylesheet" />
+    <link href="css/jquery.contextMenu.css" type="text/css" rel="stylesheet" />
+    <link href="css/main.css" type="text/css" rel="stylesheet" />
+    <script src="lib/URI.js"></script>
+    <script src="lib/md5.js"></script>
+    <script src="lib/underscore-min.js"></script>
+    <script src="lib/jquery-1.8.2.min.js"></script>
+    <script src="lib/jquery-migrate-1.2.1.js"></script>
+    <script src="css/jquery-ui-1.10.3/ui/jquery-ui.js"></script>
+    <script src="lib/jquery.layout-1.2.0.js"></script>
+    <script src="lib/jquery.contextMenu.js"></script>
+    <script src="lib/rdf_store_min.js"></script>
+    <script src="js/ns.js"></script>
+    <script src="js/prefix.js"></script>
+    <script src="js/spin.js"></script>
+    <script src="js/model.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/view.js"></script>
+    <script src="js/main.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Transparency Score', 'Population'],
+          [ 8,      12],
+          [ 4,      5.5],
+          [ 11,     14],
+          [ 4,      5],
+          [ 3,      3.5],
+          [ 6.5,    7]
+        ]);
+
+        var options = {
+          title: 'Transparency Score vs. Population of Countries',
+          hAxis: {title: 'Transparency Score', minValue: 0, maxValue: 15},
+          vAxis: {title: 'Weightssds', minValue: 0, maxValue: 15},
+          legend: 'none'
+        };
+
+        var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body ondragover="event.dataTransfer.effectAllowed='none'; event.dataTransfer.dropEffect='none'; return false;">
+    <div class="ui-layout-center" id="left-pane" ondragover="event.dataTransfer.effectAllowed='none'; event.dataTransfer.dropEffect='none'; return false;">
+      <div id="canvas" class="ui-layout-center">
+      </div>
+      <div id="query-results" class="ui-layout-south">
+        <div class="tabs-left">
+          <ul>
+            <li><a href="#results-raw-sparql" title="View raw SPARQL"></a></li>
+            <li><a href="#results-tabular" title="View as tables"></a></li>
+            <li><a href="#results-map" title="View on map"></a></li>
+            <li><a href="#results-chart" title="View on chart"></a></li>
+          </ul>
+          <div id="results-raw-sparql"></div>
+          <div id="results-tabular"><div class="tables"></div></div>
+          <div id="results-map"></div>
+          <div id="results-chart"><div id="chart_div"></div></div>
+        </div>
+        <div class="spinner">
+          <div class="background"></div>
+          <div id="circularG">
+            <div id="circularG_1" class="circularG">
+            </div>
+            <div id="circularG_2" class="circularG">
+            </div>
+            <div id="circularG_3" class="circularG">
+            </div>
+            <div id="circularG_4" class="circularG">
+            </div>
+            <div id="circularG_5" class="circularG">
+            </div>
+            <div id="circularG_6" class="circularG">
+            </div>
+            <div id="circularG_7" class="circularG">
+            </div>
+            <div id="circularG_8" class="circularG">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="query-list" class="ui-layout-east">
+      <div id="endpoints" class="ui-layout-north">
+        <p>Endpoint: <select><option class="default">No Endpoint</option></select></p>
+        <p><a href="#">Add</a><a href="#" class="disabled">Edit</a><a href="#" class="disabled">Remove</a>
+      </div>
+      <div class="ui-layout-center" ondragover="event.dataTransfer.effectAllowed='none'; event.dataTransfer.dropEffect='none'; event.stopPropagation(); return false">
+        <div id="query-tabs" class="tabs-bottom">
+          <ul>
+            <li><a href="#concepts">Concepts</a></li>
+            <li><a href="#stored-queries">Stored Queries</a></li>
+          </ul>
+          <div class="tabs-spacer"></div>
+          <div id="concepts">
+            <ul></ul>
+          </div>
+          <div id="stored-queries">
+            <ul></ul>
+          </div>
+        </div>
+      </div>
+      <div class="ui-layout-south" ondragover="event.dataTransfer.effectAllowed='none'; event.dataTransfer.dropEffect='none'; return false;">
+      </div>
+    </div>
+    <div id="endpoint-dialog">
+      <form>
+        <p>
+          <label for="endpoint-url">Endpoint URL:</label><input name="endpoint-url" type="text" />
+        </p>
+        <p>
+          <label for="endpoint-label">Label:</label><input name="endpoint-label" type="text" />
+        </p>
+        <p>
+          <label for="endpoint-comment">Comment:</label>
+        </p>
+        <textarea name="endpoint-comment" rows="6" cols="60"></textarea>
+      </form>
+    </div>
+    <div id="bind-variable-dialog">
+      <form>
+        <p>
+          <label for="">Values:</label>
+          <select name="values"></select>
+        </p>
+      </form>
+    </div>
+    <div id="error-dialog">
+      <p></p>
+    </div>
+  </body>
+</html>

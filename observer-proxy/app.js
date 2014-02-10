@@ -9,6 +9,7 @@ var user = require('./routes/user');
 var http = require('http');
 var path = require('path');
 var socket = require('socket.io');
+var querystring = require('querystring');
 
 var app = express();
 
@@ -40,8 +41,11 @@ var io = socket.listen(server);
 
 app.get('/', function(req, res){
 	res.sendfile(__dirname + '/index.html');
-    });
 
+    });
+ 
+
+//This was used in the original collustra query interface
 app.post('/', function(req, res){
 	//	console.log('***** CSPARQL Request Received *****');
 
@@ -56,11 +60,49 @@ app.post('/', function(req, res){
 
     });
 
-io.sockets.on('connection', function(socket){
-	/**
-	socket.emit('news', {hello: 'world'});
-	socket.on('my other event', function(data){
+
+//Hardcoded query strings for the GCM integration
+app.post('/query1', function(req, res){
+	//	console.log('***** CSPARQL Request Received *****');
+
+	//console.log(req.body)
+	req.on('data', function(chunk){
+		/**
+		console.log(chunk.toString());
+		res.send(chunk.toString());		
+		io.sockets.emit('news', {data: chunk.toString()});
+		**/
+
+		data = chunk.toString();
 		console.log(data);
+
+		var options = {
+		    host: 'requestb.in',
+		    port: 80,
+		    path: '/wqwllawq',
+		    method: 'POST',
+		    headers: {
+			'Content-Type': 'application/x-www-form-urlencoded',
+			'Content-Length': Buffer.byteLength(data)
+		    }
+		};
+		
+		var httpreq = http.request(options, function (response) {
+			response.setEncoding('utf8');
+			response.on('data', function (chunk) {
+				console.log("body: " + chunk);
+			    });
+			response.on('end', function() {
+				res.send('ok');
+			    })
+		    });
+		httpreq.write(data);
+		httpreq.end();
+			       
 	    });
-	*/
-});
+
+    });
+
+ 
+
+

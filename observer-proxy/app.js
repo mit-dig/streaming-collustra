@@ -7,6 +7,7 @@ var express = require('express');
 var routes = require('./routes');
 var user = require('./routes/user');
 var http = require('http');
+var https = require('https');
 var path = require('path');
 var socket = require('socket.io');
 var querystring = require('querystring');
@@ -61,20 +62,28 @@ app.post('/', function(req, res){
     });
 
 
+/**
+  
 //Hardcoded query strings for the GCM integration
 app.post('/query1', function(req, res){
 	//	console.log('***** CSPARQL Request Received *****');
 
 	//console.log(req.body)
 	req.on('data', function(chunk){
-		/**
-		console.log(chunk.toString());
-		res.send(chunk.toString());		
-		io.sockets.emit('news', {data: chunk.toString()});
-		**/
+		
+		//console.log(chunk.toString());
+		//res.send(chunk.toString());		
+		//io.sockets.emit('news', {data: chunk.toString()});
+		
 
-		data = chunk.toString();
+
+		//		data = chunk.toString();
 		console.log(data);
+
+		var data = querystring.stringify({
+			query: 'query1',
+			result: chunk.toString()
+		    });
 
 		var options = {
 		    host: 'requestb.in',
@@ -100,6 +109,109 @@ app.post('/query1', function(req, res){
 		httpreq.end();
 			       
 	    });
+
+    });
+
+ */
+
+  
+//Hardcoded query strings for the GCM integration
+app.post('/query1', function(req, res){
+	//	console.log('***** CSPARQL Request Received *****');
+
+	//console.log(req.body)
+	req.on('data', function(chunk){
+		/**
+		console.log(chunk.toString());
+		res.send(chunk.toString());		
+		io.sockets.emit('news', {data: chunk.toString()});
+		**/
+
+
+		var data = JSON.stringify({
+			query: 'query1',
+			result: chunk.toString()
+		    });
+
+		console.log(data);
+
+		var options = {
+		    host: 'script.google.com',
+		    port: 443,
+		    path: '/macros/s/AKfycbwqfgwfOFDaRclJGj-FCZFiCcWuS63g5kJtNfEV5bPv-MXSJTc/exec',
+		    method: 'POST',
+		    headers: {
+			'Content-Type': 'application/x-www-form-urlencoded',
+			'Content-Length': Buffer.byteLength(data)
+		    }
+		};
+		
+		var httpreq = https.request(options, function (response) {
+			response.setEncoding('utf8');
+			response.on('data', function (chunk) {
+				//				console.log("body: " + chunk);
+				console.log('status code:' + response.statusCode);
+			    });
+			response.on('end', function() {
+				res.send('ok');
+			    })
+		    });
+		httpreq.write(data);
+		httpreq.end();
+			       
+	    });
+		
+
+    });
+
+ 
+
+  
+//Hardcoded query strings for the GCM integration
+app.post('/query2', function(req, res){
+	//	console.log('***** CSPARQL Request Received *****');
+
+	//console.log(req.body)
+	req.on('data', function(chunk){
+		/**
+		console.log(chunk.toString());
+		res.send(chunk.toString());		
+		io.sockets.emit('news', {data: chunk.toString()});
+		**/
+
+		var data = JSON.stringify({
+			query: 'query2',
+			result: chunk.toString()
+		    });
+		
+		console.log(data);
+
+		var options = {
+		    host: 'script.google.com',
+		    port: 443,
+		    path: '/macros/s/AKfycbwqfgwfOFDaRclJGj-FCZFiCcWuS63g5kJtNfEV5bPv-MXSJTc/exec',
+		    method: 'POST',
+		    headers: {
+			'Content-Type': 'application/x-www-form-urlencoded',
+			'Content-Length': Buffer.byteLength(data)
+		    }
+		};
+		
+		var httpreq = https.request(options, function (response) {
+			response.setEncoding('utf8');
+			response.on('data', function (chunk) {
+				//				console.log("body: " + chunk);
+				console.log('status code:' + response.statusCode);
+			    });
+			response.on('end', function() {
+				res.send('ok');
+			    })
+		    });
+		httpreq.write(data);
+		httpreq.end();
+			       
+	    });
+		
 
     });
 

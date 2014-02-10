@@ -1,0 +1,2 @@
+@prefix : <http://streamreasoning.org/ontologies/sr4ld2013-onto#> .
+  :Carl :posts [ :who :Carl , :Bob ] .

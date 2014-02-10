@@ -686,3 +686,9 @@ java.lang.NullPointerException: null
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [na:1.7.0_45]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [na:1.7.0_45]
 	at java.lang.Thread.run(Thread.java:744) [na:1.7.0_45]
+10:19:49.477 [com.espertech.esper.Timer-default-1] ERROR polimi.deib.rsp_service4csparql_server.observer.utilities.Observer4HTTP - Connection to http://localhost:3000/query1 refused
+10:19:49.484 [com.espertech.esper.Timer-default-1] ERROR polimi.deib.rsp_service4csparql_server.observer.utilities.Observer4HTTP - Connection to http://localhost:3000/query1 refused
+10:19:49.489 [com.espertech.esper.Timer-default-1] ERROR polimi.deib.rsp_service4csparql_server.observer.utilities.Observer4HTTP - Connection to http://localhost:3000/ refused
+10:19:59.073 [com.espertech.esper.Timer-default-1] ERROR polimi.deib.rsp_service4csparql_server.observer.utilities.Observer4HTTP - Connection to http://localhost:3000/query1 refused
+10:19:59.074 [com.espertech.esper.Timer-default-1] ERROR polimi.deib.rsp_service4csparql_server.observer.utilities.Observer4HTTP - Connection to http://localhost:3000/query1 refused
+10:19:59.076 [com.espertech.esper.Timer-default-1] ERROR polimi.deib.rsp_service4csparql_server.observer.utilities.Observer4HTTP - Connection to http://localhost:3000/ refused

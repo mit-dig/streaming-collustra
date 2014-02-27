@@ -1,0 +1,1 @@
+curl -X POST http://localhost:8175/queries/test -d 'http://localhost:3000/'

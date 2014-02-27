@@ -1,0 +1,16 @@
+@prefix sioc:    <http://rdfs.org/sioc/ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:     <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+<http://example.com/test_AT_example.com/1386486533774/1393356457665>
+      a       sioc:MicroblogPost ;
+      :atLocation <http://example.com/test_AT_example.com/WeReport_QCRI/1393355350537/1393356457686> ;
+      sioc:attachment "http://twitpic.com/show/full/dwn96r" ;
+      sioc:description "testing" ;
+      sioc:title "test" .
+<http://example.com/test_AT_example.com/WeReport_QCRI/1393355350537/1393356457686>
+      a       geo:Point ;
+      geo:lat "42.36206" ;
+      geo:long "-71.09033" .

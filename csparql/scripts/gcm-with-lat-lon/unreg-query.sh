@@ -1,0 +1,1 @@
+curl -i -H "Cache-Control: no-cache" -H "X-HTTP-Method-Override: DELETE" -X POST http://128.30.9.140:8175/queries/test

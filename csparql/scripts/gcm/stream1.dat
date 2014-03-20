@@ -1,0 +1,11 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sioc:	 <http://rdfs.org/sioc/ns#> .
+@prefix :        <http://streamreasoning.org/ontologies/sr4ld2013-onto#>.
+
+<http://example.com/test_AT_example.com/1>
+       a       sioc:MicroblogPost;
+       sioc:attachment "http://twitpic.com/show/full/dvf0wl";
+       sioc:description "" ;
+       sioc:topic "Snowstorm";
+       :place "Cambridge".

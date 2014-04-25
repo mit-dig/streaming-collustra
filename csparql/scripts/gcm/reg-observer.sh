@@ -1,1 +1,1 @@
-curl -X POST http://localhost:8175/queries/test -d 'http://localhost:3000/'
+curl -X POST http://air.csail.mit.edu:8175/queries/0url3o -d 'http://localhost:3000/'

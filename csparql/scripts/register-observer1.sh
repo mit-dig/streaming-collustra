@@ -1,1 +1,1 @@
-curl -X POST http://localhost:8175/queries/IsInFs -d 'http://localhost:3000/query1'
+curl -X POST http://localhost:8175/queries/0ihp4b -d 'http://localhost:3000/'

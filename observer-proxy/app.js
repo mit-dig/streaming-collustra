@@ -52,9 +52,9 @@ app.post('/', function(req, res){
 
 	console.log(req.body)
 	req.on('data', function(chunk){
-		//console.log(chunk.toString());
+		console.log(chunk.toString());
 		res.send(chunk.toString());		
-		io.sockets.emit('news', {data: chunk.toString()});
+		//io.sockets.emit('news', {data: chunk.toString()});
 	    });
 
 

@@ -1,1 +1,1 @@
-curl -ILX PUT http://localhost:8175/streams/http%3A%2F%2Fex.org%2Fgcm
+curl -ILX PUT http://air.csail.mit.edu:8175/streams/http%3A%2F%2Fex.org%2Fgcm

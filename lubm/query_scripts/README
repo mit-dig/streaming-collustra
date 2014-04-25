@@ -1,0 +1,7 @@
+Jena parser is strict when it comes to variable representation. Therefore, CSPARQL will throw an error if the SELECT clause looks like this:
+SELECT ?X, ?Y, ?Z
+it should be
+SELECT ?X ?Y ?Z
+
+Also, q7 seem to be wrong! When fixed works on CSPARQL.
+

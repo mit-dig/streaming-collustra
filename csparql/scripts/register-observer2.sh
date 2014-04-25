@@ -1,1 +1,1 @@
-curl -X POST http://localhost:8175/queries/IsWithFb -d 'http://localhost:3000/query2'
+curl -X POST -d 'http://localhost:3000/' http://localhost:8175/queries/isWithFb

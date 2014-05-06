@@ -1,0 +1,39 @@
+"http://www.Department14.University0.edu/UndergraduateStudent36" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://dig.csail.mit.edu/onto#UndergraduateStudent"
+    }
+     ]
+  }
+   ,
+  "http://www.Department10.University0.edu/UndergraduateStudent239" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://dig.csail.mit.edu/onto#UndergraduateStudent"
+    }
+     ]
+  }
+   ,
+  "http://www.Department13.University0.edu/UndergraduateStudent41" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://dig.csail.mit.edu/onto#UndergraduateStudent"
+    }
+     ]
+  }
+   ,
+  "http://www.Department13.University0.edu/UndergraduateStudent238" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://dig.csail.mit.edu/onto#UndergraduateStudent"
+    }
+     ]
+  }
+   ,
+  "http://www.Department13.University0.edu/UndergraduateStudent396" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://dig.csail.mit.edu/onto#UndergraduateStudent"
+    }
+     ]
+  }

@@ -1,0 +1,40 @@
+{ 
+  "http://www.Department0.University0.edu/GraduateStudent124" : { 
+    "http://dig.csail.mit.edu/onto#takesCourse" : [ { 
+      "type" : "uri" ,
+      "value" : "http://www.Department0.University0.edu/GraduateCourse0"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://dig.csail.mit.edu/onto#GraduateStudent"
+    }
+     ]
+  }
+   ,
+  "http://www.Department0.University0.edu/GraduateStudent142" : { 
+    "http://dig.csail.mit.edu/onto#takesCourse" : [ { 
+      "type" : "uri" ,
+      "value" : "http://www.Department0.University0.edu/GraduateCourse0"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://dig.csail.mit.edu/onto#GraduateStudent"
+    }
+     ]
+  }
+   ,
+  "http://www.Department0.University0.edu/GraduateStudent44" : { 
+    "http://dig.csail.mit.edu/onto#takesCourse" : [ { 
+      "type" : "uri" ,
+      "value" : "http://www.Department0.University0.edu/GraduateCourse0"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://dig.csail.mit.edu/onto#GraduateStudent"
+    }
+     ]
+  }
+}
